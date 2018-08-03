@@ -5,4 +5,4 @@ yum install make libconfuse-devel libnl3-devel libnl-route3-devel ncurses-devel 
 ./configure
 make
 make install
-bmon
+
